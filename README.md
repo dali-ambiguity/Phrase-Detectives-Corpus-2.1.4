@@ -22,7 +22,7 @@ A total of 542 documents are included, for a total of 408K tokens and
   both by Phrase Detectives players and by two experts. This subset is
   a cleaned-up version of the Phrase Detectives 1.0 corpus released in
   2016. In addition to the gold annotation, a 'silver' annotation is
-  included, extracted using the Mention Pair Annotation (MPA) probabilistic
+  included, extracted using the [Mention Pair Annotation (MPA)](https://github.com/SilviuPaun/Mention-Pair-Annotations-model) probabilistic
   aggregation method for coreference discussed in the paper:
 
   Silviu Paun, Jon Chamberlain, Udo Kruschwitz, Juntao Yu and Massimo
