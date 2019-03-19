@@ -9,6 +9,9 @@ the  Phrase Detectives game-with-a-purpose:
 
 	   https://www.phrasedetectives.org
 
+# Download
+
+The corpus is avaliable at this [link](https://drive.google.com/file/d/1WJP5DAoe5n5Azu6qPTPG4ZWC2VzyAzP5/view?usp=sharing)
 
 # The Documents
 
