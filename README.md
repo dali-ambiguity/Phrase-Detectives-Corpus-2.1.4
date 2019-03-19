@@ -15,19 +15,19 @@ the  Phrase Detectives game-with-a-purpose:
 A total of 542 documents are included, for a total of 408K tokens and
 108K markables. The documents are divided in:
 
-* a `gold' subset of 45 documents (23K tokens, 6K markables) annotated
+* a 'gold' subset of 45 documents (23K tokens, 6K markables) annotated
   both by Phrase Detectives players and by two experts. This subset is
   a cleaned-up version of the Phrase Detectives 1.0 corpus released in
-  2016. In addition to the gold annotation, a `silver' annotation is
+  2016. In addition to the gold annotation, a 'silver' annotation is
   included, extracted using the Mention Pair Annotation (MPA) probabilistic
   aggregation method for coreference discussed in the paper:
 
   Silviu Paun, Jon Chamberlain, Udo Kruschwitz, Juntao Yu and Massimo
-  Poesio, 2018. A Probabilistic Annotation Model for Crowdsourcing
-  Coreference. In Proc. of EMNLP. 
-  https://aclanthology.coli.uni-saarland.de/papers/D18-1218/d18-1218
+  Poesio, 2018. [A Probabilistic Annotation Model for Crowdsourcing
+  Coreference](https://aclanthology.coli.uni-saarland.de/papers/D18-1218/d18-1218). In Proc. of EMNLP. 
+  
 
-* a `silver' subset of 497 documents (384 tokens, 101K markables) for
+* a 'silver' subset of 497 documents (384 tokens, 101K markables) for
   which only the silver MPA annotation is provided.
 
 The silver subset consists of documents  from two separate genres:
