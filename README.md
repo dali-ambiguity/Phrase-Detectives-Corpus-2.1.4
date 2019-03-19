@@ -161,6 +161,6 @@ Please report any errors or issues to jchamb@essex.ac.uk
 
 # Change Log
 
-January 2019 :: Version 2.1 created.
+January 2019: Version 2.1 created.
 
 
