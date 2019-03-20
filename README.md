@@ -149,7 +149,7 @@ Full documentation and preliminary analysis of the data has been
 published in the following NAACL paper: 
 
 Poesio, M., Chamberlain, J., Paun, S., Yu, J., Uma, A., and Kruschwitz, U. (2019).
-A Crowdsourced Corpus of Multiple Judgments and Disagreement on Anaphoric Interpretation. In Proceddings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019).
+A Crowdsourced Corpus of Multiple Judgments and Disagreement on Anaphoric Interpretation. In Proceedings of the 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL 2019).
 
 Earlier papers on the corpus include:
 
